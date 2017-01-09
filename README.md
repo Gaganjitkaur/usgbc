@@ -1,2 +1,2 @@
 # usgbc
-This is my first repository.
+This is my first repositroy . I am Gaganjit Kaur.
